@@ -6,12 +6,13 @@
 <details>
 <Summary>Some of the stuff I’m currently working on:</Summary>
 
- <li>Feedback Web Application🌐</li>
-  Currently being built and maintained in <b>Django</b> and <b>React</b>.
 
- <br> 
- <li>Isekaied🎮</li>
-  A video game being created with the <b>Good Village Games</b> team using the <b>Unity Engine.</b>
+      <li>Feedback Web Application🌐</li>
+             Currently being built and maintained in <b>Django</b> and <b>React</b>.
+     
+      <br> 
+      <li>Isekaied🎮</li>
+             A video game being created with the <b>Good Village Games</b> team using the <b>Unity Engine.</b>
 </details>
 
   
