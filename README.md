@@ -3,8 +3,16 @@
 <br>
 <br>
 
+I am currently studying:
+- React
+- ML
+- Data Science
+- Game Dev
+
+Wanna have a chat? Hit me up! I love talking about technology. :D
+
 <details>
-<Summary>Some of the stuff I’m currently working on:</Summary>
+<Summary>Some of the stuff I’m working on:</Summary>
 
 
       Feedback Web Application🌐
