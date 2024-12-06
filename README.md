@@ -1,5 +1,4 @@
-<h1 align="center">Hey, I'm Antonio Paulo!</h1>
-<h3 align="center">I use coding to bring ideas to reality.</h3>
+<h1 align="center">Hey, I'm Antonio Paulo! 😎</h1>
 <br>
 <br>
 
