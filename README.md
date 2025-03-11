@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Tech Enthusiast and Developer!
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apabsp)](https://github.com/apabsp/github-readme-stats)
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apabsp)](https://github.com/apabsp/github-readme-stats&theme=dark&show_hide=ranks&icons=true)
 
 
 
