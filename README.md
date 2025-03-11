@@ -3,10 +3,10 @@
 👨‍💻 Tech Enthusiast and Developer!
 
 ### 📚 What I'm Learning:
-- Making cool UIs with **React** ⚛️
-- Teaching machines to learn with **ML** 🤖
-- Crunching data with **Data Science** 📊
-- Creating immersive worlds in **Game Dev** 🎮  
+-  **React** ⚛️
+-  **ML** 🤖
+-  **Data Science** 📊
+-  **Game Dev** 🎮  
 
 ---
 ### 🔥 My Current Projects:
