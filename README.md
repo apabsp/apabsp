@@ -5,10 +5,10 @@
 <table border="0" style="border: none;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=apabsp&theme=react&show_icons=true&hide_rank=true" alt="Antonio's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=apabsp&theme=react&show_icons=true&hide_rank=true&hide_border=true" alt="Antonio's GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-wheat-phi-27.vercel.app/api/top-langs/?username=apabsp&hide=html,css&theme=react" alt="Tony Top Langs"/>
+      <img src="https://github-readme-stats-wheat-phi-27.vercel.app/api/top-langs/?username=apabsp&hide=html,css&theme=react&layout=compact&hide_border=true" alt="Tony Top Langs"/>
     </td>
   </tr>
 </table>
