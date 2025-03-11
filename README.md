@@ -2,6 +2,10 @@
 
 ## 👨‍💻 Tech Enthusiast and Developer!
 
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apabsp)](https://github.com/apabsp/github-readme-stats)
+
+
+
 ### 📚 What I'm Learning:
 -  **React** ⚛️
 -  **ML** 🤖
