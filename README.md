@@ -21,6 +21,18 @@
 ⚔️ **Isekaied** (*A game made with Unity by Good Village Games*)  
 → A roguelike where you (yes, YOU) get thrown into another world!  
 
+---
+
+### 🛠️ My Tech Stack:
+- **Languages:** Python 🐍, Java ☕, C# ⚙️, JavaScript 🌐, TypeScript 🔵, Kotlin 📱
+- **Frameworks & Tools:** React ⚛️, Django 🦄, Node.js 🌳, PostgreSQL 🐘, Unity 🎮, TailwindCSS 🎨
+
+---
+
+Wanna talk? Drop me a message!
+antoniop.absp@gmail.com
+
+---
 <table border="0" style="border: none;">
   <tr>
     <td>
@@ -32,13 +44,3 @@
   </tr>
 </table>
 
----
-
-### 🛠️ My Tech Stack:
-- **Languages:** Python 🐍, Java ☕, C# ⚙️, JavaScript 🌐, TypeScript 🔵, Kotlin 📱
-- **Frameworks & Tools:** React ⚛️, Django 🦄, Node.js 🌳, PostgreSQL 🐘, Unity 🎮, TailwindCSS 🎨
-
----
-
-Wanna talk? Drop me a message!
-antoniop.absp@gmail.com
