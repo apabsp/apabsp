@@ -18,7 +18,7 @@
 
 
 ⚔️ **Isekaied** (*A game made with Unity by Good Village Games*)  
-→ An RPG where you (yes, YOU) get thrown into another world!  
+→ A roguelike where you (yes, YOU) get thrown into another world!  
 
 ---
 
