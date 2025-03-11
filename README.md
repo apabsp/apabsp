@@ -1,7 +1,4 @@
 <h1 align="center">Hey, I'm Antonio Paulo! 🐧</h1>
-
-## 👨‍💻 Tech Enthusiast and Developer!
-
 <table border="0" style="border: none;">
   <tr>
     <td>
@@ -13,6 +10,7 @@
   </tr>
 </table>
 
+## 👨‍💻 Tech Enthusiast and Developer!
 
 ### <span style="color: #61dafb;">📚 What I'm Learning:</span>
 - <span style="color: #61dafb;"><strong>React</strong> ⚛️</span>  
