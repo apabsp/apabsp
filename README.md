@@ -4,6 +4,7 @@
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apabsp&theme=react&show_icons=true&hide_rank=true)
 
+[![Tony Top Langs](https://github-readme-stats-wheat-phi-27.vercel.app/api/top-langs/?username=apabsp&hide=html,css&theme=react)]
 
 
 ### <span style="color: #61dafb;">📚 What I'm Learning:</span>
