@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Antonio Paulo! 🚀</h1>
 
-👨‍💻 Tech enthusiast and Developer!
+👨‍💻 Tech Enthusiast and Developer!
 
 ### 📚 What I'm Learning:
 - Making cool UIs with **React** ⚛️
