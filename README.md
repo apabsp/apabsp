@@ -2,15 +2,16 @@
 
 ## 👨‍💻 Tech Enthusiast and Developer!
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apabsp&theme=blue_navy&show_icons=true&hide_rank=true)
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apabsp&theme=react&show_icons=true&hide_rank=true)
 
 
 
-### 📚 What I'm Learning:
--  **React** ⚛️
--  **ML** 🤖
--  **Data Science** 📊
--  **Game Dev** 🎮  
+### <span style="color: #61dafb;">📚 What I'm Learning:</span>
+- <span style="color: #61dafb;"><strong>React</strong> ⚛️</span>  
+- <span style="color: #61dafb;"><strong>ML</strong> 🤖</span>  
+- <span style="color: #61dafb;"><strong>Data Science</strong> 📊</span>  
+- <span style="color: #61dafb;"><strong>Game Dev</strong> 🎮</span>  
+
 
 ---
 ### 🔥 My Current Projects:
