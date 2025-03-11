@@ -14,7 +14,7 @@
 → Because feedback should be clear and valued!  
 
 🎲 **Board Game Website** (*Using React & Node.js*)  
-→ For when you want to play with friends anytime, anywhere! Let's break the ice and have everyone interact!  
+→ Let's break the ice and have everyone interact! For when you want to play with friends! 
 
 
 ⚔️ **Isekaied** (*A game made with Unity by Good Village Games*)  
