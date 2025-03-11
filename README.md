@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Antonio Paulo! 🚀</h1>
+<h1 align="center">Hey, I'm Antonio Paulo! 🐧</h1>
 
 👨‍💻 Tech Enthusiast and Developer!
 
