@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Antonio Paulo! 🐧</h1>
 
-## 👨‍💻 Tech Enthusiast and Developer!
+## Tech Enthusiast and Developer
 
 ### <span style="color: #61dafb;">📚 What I'm Learning:</span>
-- <span style="color: #61dafb;"><strong>React</strong> ⚛️</span>  
+- <span style="color: #61dafb;"><strong>React</strong></span>  
 - <span style="color: #61dafb;"><strong>ML</strong> 🤖</span>  
 - <span style="color: #61dafb;"><strong>Data Science</strong> 📊</span>  
 - <span style="color: #61dafb;"><strong>Game Dev</strong> 🎮</span>  
@@ -23,13 +23,13 @@
 
 ---
 
-### 🛠️ My Tech Stack:
+### My Tech Stack:
 - **Languages:** Python 🐍, Java ☕, C# ⚙️, JavaScript 🌐, TypeScript 🔵, Kotlin 📱
 - **Frameworks & Tools:** React ⚛️, Django 🦄, Node.js 🌳, PostgreSQL 🐘, Unity 🎮, TailwindCSS 🎨
 
 ---
 
-Wanna talk? Drop me a message!
+Wanna talk? Drop me a message! :D
 antoniop.absp@gmail.com
 
 ---
