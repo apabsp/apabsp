@@ -2,7 +2,7 @@
 
 ## Tech Enthusiast and Developer
 
-### <span style="color: #61dafb;">📚 What I'm Learning:</span>
+### <span style="color: #61dafb;">What I'm Learning:</span>
 - <span style="color: #61dafb;"><strong>React</strong></span>  
 - <span style="color: #61dafb;"><strong>ML</strong> 🤖</span>  
 - <span style="color: #61dafb;"><strong>Data Science</strong> 📊</span>  
@@ -10,7 +10,7 @@
 
 
 ---
-### 🔥 My Current Projects:
+### My Current Projects:
 🎯 **Feedback App** (*Using React*)  
 → Because feedback should be clear and valued!  
 
@@ -19,7 +19,7 @@
 
 
 ⚔️ **Isekaied** (*A game made with Unity by Good Village Games*)  
-→ A roguelike where you (yes, YOU) get thrown into another world!  
+→ A roguelike where you get thrown into another world!  
 
 ---
 
