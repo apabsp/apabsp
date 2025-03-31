@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Antonio Paulo! 🐧</h1>
 
-## Tech Enthusiast and Developer
 
-### <span style="color: #61dafb;">What I'm Learning:</span>
+### <span style="color: #61dafb;">Right now, I'm trying to focus on these:</span>
 - <span style="color: #61dafb;"><strong>React</strong></span>  
 - <span style="color: #61dafb;"><strong>ML</strong> 🤖</span>  
 - <span style="color: #61dafb;"><strong>Data Science</strong> 📊</span>  
@@ -12,7 +11,7 @@
 ---
 ### My Current Projects:
 🎯 **Feedback App** (*Using React*)  
-→ Because feedback should be clear and valued!  
+→ Because feedback should be clear and valued.  
 
 🎲 **Board Game Website** (*Using React & Node.js*)  
 → Let's break the ice and have everyone interact! For when you want to play with friends! 
@@ -24,8 +23,8 @@
 ---
 
 ### My Tech Stack:
-- **Languages:** Python 🐍, Java ☕, C# ⚙️, JavaScript 🌐, TypeScript 🔵, Kotlin 📱
-- **Frameworks & Tools:** React ⚛️, Django 🦄, Node.js 🌳, PostgreSQL 🐘, Unity 🎮, TailwindCSS 🎨
+- **Languages:** Python, Java, C#, JavaScript, TypeScript, Kotlin
+- **Frameworks & Tools:** React, Django, Node.js, PostgreSQL, Unity, TailwindCSS
 
 ---
 
