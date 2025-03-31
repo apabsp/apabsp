@@ -28,7 +28,8 @@
 
 ---
 
-Wanna talk? Drop me a message! :D
+Wanna talk? Drop me a message! :)
+
 antoniop.absp@gmail.com
 
 ---
