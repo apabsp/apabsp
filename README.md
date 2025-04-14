@@ -1,11 +1,16 @@
-<h1 align="center">Hey, I'm Antonio Paulo! 🐧</h1>
+<h1 align="center">Hey!</h1>
 
+<table border="0" style="border: none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=apabsp&theme=react&show_icons=true&hide_rank=true&hide_border=true" alt="Antonio's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-wheat-phi-27.vercel.app/api/top-langs/?username=apabsp&hide=html,css&theme=react&layout=compact&hide_border=true" alt="Tony Top Langs"/>
+    </td>
+  </tr>
+</table>
 
-### <span style="color: #61dafb;">Right now, I'm trying to focus on these:</span>
-- <span style="color: #61dafb;"><strong>React</strong></span>  
-- <span style="color: #61dafb;"><strong>ML</strong> 🤖</span>  
-- <span style="color: #61dafb;"><strong>Data Science</strong> 📊</span>  
-- <span style="color: #61dafb;"><strong>Game Dev</strong> 🎮</span>  
 
 
 ---
@@ -28,19 +33,5 @@
 
 ---
 
-Wanna talk? Drop me a message! :)
-
+Wanna talk? :)
 antoniop.absp@gmail.com
-
----
-<table border="0" style="border: none;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=apabsp&theme=react&show_icons=true&hide_rank=true&hide_border=true" alt="Antonio's GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-wheat-phi-27.vercel.app/api/top-langs/?username=apabsp&hide=html,css&theme=react&layout=compact&hide_border=true" alt="Tony Top Langs"/>
-    </td>
-  </tr>
-</table>
-
