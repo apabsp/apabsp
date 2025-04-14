@@ -18,7 +18,7 @@
 🎯 **Feedback App** (*Using React*)  
 → Because feedback should be clear and valued.  
 
-🎲 **Board Game Website** (*Using React & Node.js*)  
+🎲 **Board Game Website** (*Using React)  
 → Let's break the ice and have everyone interact! For when you want to play with friends! 
 
 
