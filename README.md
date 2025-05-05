@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! :D</h1>
+<h1 align="center">Welcome!</h1>
 
 <table border="0" style="border: none;">
   <tr>
