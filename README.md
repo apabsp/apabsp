@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Antonio Paulo! 👋😄</h1>
 
-<!--
-**apabsp/apabsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who always likes tackling new projects and studying computer science stuff! I'm a Computer Science student in college. :)
 
-Here are some ideas to get you started:
+I enjoy diving into different fields, from creating web applications to building games and even working with embedded systems from time to time. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe there's always new things to discover, it's important to always be open to learning.
+
+---
+
+### What I Work With
+
+* **Languages:** Python, Java, JavaScript, TypeScript, C++, C#, and C
+* **Web Tech:** React, Node.js, Django, AWS, Docker
+* **Game Dev:** Unity and Godot
+* **Other Tools:** Git, PostgreSQL, MongoDB, and more.
+
+---
+
+### Wanna talk?
+
+antoniop.desenvolvedor@gmail.com
