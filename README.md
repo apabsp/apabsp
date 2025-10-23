@@ -1,8 +1,19 @@
-<h1 align="center">Hi, I'm Antonio Paulo! 👋😄</h1>
+<h3 align="center">Hi, I'm Antonio Paulo! 😄</h3>
 
-I enjoy diving into different fields, from creating web applications to building games and even working with embedded systems from time to time. 
-
-I'm in college for Computer Science! :)
+<p align = "center">
+  <em>
+    
+    “There are two ways of constructing a software design:  
+    
+    1) Make it so simple that there are obviously no deficiencies,  
+    2) Make it so complicated that there are no obvious deficiencies.  
+    
+    The first method is far more difficult.”  
+    
+    - (C. A. R. Hoare, creator of Quick Sort)
+  </em>
+  
+</p>
 
 ---
 
@@ -14,6 +25,10 @@ I'm in college for Computer Science! :)
 * **Other Tools:** Git, PostgreSQL, MongoDB, and more.
 
 ---
+
+I enjoy diving into different fields, from creating web applications to building games and even working with embedded systems from time to time.
+
+I'm in college for Computer Science! :)
 
 ### Wanna talk?
 
